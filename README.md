@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=podamounitha" alt="podamounitha" /></a> </p>
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
