@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Cybersecurity applications**
 
-- 💬 Ask me about **Java, Python, C, C++, HTML, CSS, JS**
+- 💬 Ask me about **Java, Python, C, C++, HTML, CSS, JS, TS**
 
 - 📫 How to reach me **podamounitha.4829@gmail.com**
 
