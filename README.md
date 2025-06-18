@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cybersecurity Student from India.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=podamounitha" alt="podamounitha" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN STACK**
 
