@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Cybersecurity Student from India.</h3>
 
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PodaMounitha&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 - 🌱 I’m currently learning **MERN STACK**
 
