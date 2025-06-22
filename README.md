@@ -31,7 +31,7 @@
 
 ## 🧠 My Profile & Learning Journey
 
-<img align="right" alt="Coding" width="450" src="https://in.pinterest.com/pin/481181541460056850/">
+<img align="right" alt="Coding" width="450" src="https://www.pinterest.com/pin/coding--78742693464152258">
 
 ### 🎯 **About Me**
 
