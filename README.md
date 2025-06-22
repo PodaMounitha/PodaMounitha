@@ -84,8 +84,38 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics & Performance Metrics
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=podamounitha&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&custom_title=Sairohith's%20GitHub%20Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=podamounitha&theme=radical&hide_border=true&border_radius=20&card_width=400" width="49%" />
+</div>
+
+<!-- Top Languages with better spacing -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=podamounitha&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8&card_width=500&custom_title=Most%20Used%20Languages" width="55%" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=podamounitha&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area_color=96CEB4&height=300" width="100%" />
+</div>
+
+<!-- GitHub Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=podamounitha&theme=radical" width="100%" />
+</div>
+
+<!-- Additional Stats Row -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=podamounitha&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=podamounitha&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=podamounitha&theme=radical" width="32%" />
+</div>
+
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=podamounitha&show_icons=true&locale=en&layout=compact" alt="podamounitha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=podamounitha&show_icons=true&locale=en" alt="podamounitha" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
