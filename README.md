@@ -27,15 +27,23 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PodaMounitha&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 🌱 I’m currently learning **MERN STACK**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 👯 I’m looking to collaborate on **Cyber Security Projects**
+## 🧠 My Profile & Learning Journey
 
-- 🤝 I’m looking for help with **Cybersecurity applications**
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 💬 Ask me about **Java, Python, C, C++, HTML, CSS, JS, TS**
+### 🎯 **About Me**
 
-- 📫 How to reach me **podamounitha.4829@gmail.com**
+- 🎓 **3rd Year B.Tech CSE** (Cybersecurity Specialization)
+- 🛡️ **Cybersecurity Enthusiast** - Penetration Testing & Ethical Hacking
+- 🌐 **Full-Stack Developer** - MERN Stack, TypeScript, Python
+- ☁️ **DevSecOps Learner** - Secure SDLC & Application Security
+- 🤖 **AI/ML Developer** - Computer Vision & Intelligent Automation
+- ☁️ **AWS Cloud Learner** - Cloud security fundamentals
+- 📚 **Technical Content Creator** - Documentation & Knowledge Sharing
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
