@@ -31,7 +31,7 @@
 
 ## 🧠 My Profile & Learning Journey
 
-<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="450" src="https://in.pinterest.com/pin/481181541460056850/">
 
 ### 🎯 **About Me**
 
