@@ -13,9 +13,9 @@
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sairohithtappatla&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sairohithtappatla?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sairohithtappatla?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=podamounitha&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/podamounitha?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/podamounitha?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
 </div>
 
 
