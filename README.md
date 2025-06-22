@@ -67,7 +67,7 @@
 ### 🗄️ **Backend & Database Systems**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ### ☁️ **Cloud & DevOps (Learning)**
