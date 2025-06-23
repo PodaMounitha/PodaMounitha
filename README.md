@@ -98,7 +98,7 @@
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=podamounitha&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&custom_title=PodaMounitha's%20GitHub%20Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=podamounitha&theme=radical&hide_border=true&border_radius=20&card_width=400" width="49%" />
+  
 </div>
 
 <!-- Top Languages with better spacing -->
