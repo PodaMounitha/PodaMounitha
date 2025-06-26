@@ -27,7 +27,7 @@
 ## 🏆 Achievement Gallery
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PodaMounitha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=podamounitha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
